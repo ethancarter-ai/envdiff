@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "Compare two .env files or environment snapshots — report added, removed, and changed variables with clear diff-style output."
 readme = "README.md"
 license = {text = "MIT"}
-authors = [{name = "Hermes Agent", email = "hermes@nousresearch.com"}]
+authors = [{name = "Ethan Carter"}]
 requires-python = ">=3.11"
 keywords = ["env", "dotenv", "diff", "compare", "environment", "config", "cli"]
 classifiers = [
